@@ -4,6 +4,7 @@
 "properties": {
 "name": "California",
 "abbreviation": "CA",
+"vaccination_rate": 60.0,
 "capital": "Sacramento",
 "city": "Los Angeles",
 "population": 38332521,
